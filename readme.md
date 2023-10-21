@@ -42,6 +42,6 @@ Here's how to use this project script:
 
 ## Errors issues and suggestions
 
-If you find any issues, please contact me via the [issues](https://www.github.com/File-Title-Linter/issues) section of this repository.
+If you find any issues, please contact me via the [issues](https://www.github.com/Lallethu/file-title-linter/issues) section of this repository.
 
-Or if you have any suggestions, please contact me via the [pull requests](https://www.github.com/File-Title-Linter/pulls) section of this repository.
+Or if you have any suggestions, please contact me via the [pull requests](https://www.github.com/Lallethu/file-title-linter/pulls) section of this repository.
