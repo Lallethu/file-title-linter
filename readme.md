@@ -14,7 +14,7 @@ Then, run the script via CLI (from the same place your desired folder is) and yo
 
 To install this project, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/Lallethu/File-Title-Linter.git`
+1. Clone this repository: `git clone https://github.com/Lallethu/file-title-linter.git`
 2. Open the folder that contains the desired folder: `cd your-parent-folder`
 3. Verify that the script is in the same folder as the desired folder: `ls`
 
