@@ -28,7 +28,7 @@ file-title-linter.php  target-folder/
 
 Here's how to use this project script:
 
-1. Once in the rigth directory open a CLI and run: `php ./file-title-linter target-folder`
+1. Once in the rigth directory open a CLI and run: `php ./file-title-linter.php target-folder`
 2. Enjoy the result.
 
 ## Complementary informations
