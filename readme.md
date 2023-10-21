@@ -35,7 +35,7 @@ Here's how to use this project script:
 
 - Author: [@Lallethu](https://www.github.com/Lallethu)
 - Helper: [@Baptiste-R-epi](https://www.github.com/Baptiste-R-epi)
-- Demo available: take a look at the demo folder [here](demo/readme.md)
+- Demo available: take a look at the demo folder [here](tree/main/demo/your-parent-folder)
 - License: [MIT](LICENSE)
 - Version: 1.0.0
 - Creation date: 2023/10/21
