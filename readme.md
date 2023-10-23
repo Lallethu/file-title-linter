@@ -44,4 +44,4 @@ Here's how to use this project script:
 
 If you find any issues, please contact me via the [issues](https://www.github.com/Lallethu/file-title-linter/issues) section of this repository.
 
-Or if you have any suggestions, please contact me via the [pull requests](https://www.github.com/Lallethu/file-title-linter/pulls) section of this repository.
+Or if you have any suggestions, feel free to post them on the [pull requests](https://www.github.com/Lallethu/file-title-linter/pulls) section of this repository.
