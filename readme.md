@@ -18,7 +18,7 @@ To install this project, follow these steps:
 2. Open the folder that contains the desired folder: `cd your-parent-folder`
 3. Verify that the script is in the same folder as the desired folder: `ls`
 
-NB: Be sure to have PHP install on your machine!
+NB: Be sure to have PHP installed on your machine!
 
 ```bash
 .../your-parent-folder
