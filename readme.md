@@ -17,6 +17,7 @@ To install this project, follow these steps:
 1. Clone this repository: `git clone https://github.com/Lallethu/file-title-linter.git`
 2. Open the folder that contains the desired folder: `cd your-parent-folder`
 3. Verify that the script is in the same folder as the desired folder: `ls`
+NB: Be sure to have PHP install on your machine!
 
 ```bash
 .../your-parent-folder
